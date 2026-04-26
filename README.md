@@ -55,13 +55,6 @@ Opcional (no son parte del hardware central, pero los usa el software):
 
 > Todos los números son la **posición física del pin** en la cabecera GPIO de la Pi Zero 2W (1–40), no el número GPIO BCM.
 
-### ⚡ Alimentación general
-
-| Riel | Pin físico Pi |
-|---|---|
-| 5V | **2** |
-| GND | **20** |
-
 ### 🎤 Micrófono INMP441 (I2S)
 
 | Pin del INMP441 | Pin físico Pi | Función |
